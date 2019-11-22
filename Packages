@@ -11,4 +11,5 @@ MD5sum: e6e914ec0c7e9938241241a96d5c4821
 SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
 Section: Tweaks
 Depiction: https://SKROB2.github.io/in
+SileoDepiction: https://raw.githubusercontent.com/SKROB2/in/master/Packages
 Name: appstore++
