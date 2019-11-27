@@ -1,4 +1,4 @@
-Package: com.skrob.appstoreplusplus
+Package: com.skrob2.appstoreplusplus
 Name: AppStore++
 Version: 0.9.5
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
